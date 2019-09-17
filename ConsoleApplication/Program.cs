@@ -6,7 +6,7 @@ namespace ConsoleApplication
     {
         static void Main(string[] args)
         {
-            Console.Write("What is your full name? ");
+           Console.Write("What is your full name? ");
             string fullName = Console.ReadLine();
 
             Console.Write("Where are you From? ");
